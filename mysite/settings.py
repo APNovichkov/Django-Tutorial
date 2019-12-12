@@ -54,7 +54,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'mysite.urls'
 
-ALLOWED_HOSTS = ['localhost', 'test-django-apn-v2.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'test-django-apn-v2.herokuapp.com']
 
 TEMPLATES = [
     {
